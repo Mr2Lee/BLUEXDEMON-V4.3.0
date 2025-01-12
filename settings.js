@@ -3,13 +3,13 @@ const version = require("@whiskeysockets/baileys/package.json").version
 
 
 //Input number for pair code
-global.pairingNumber = "2349130592590"
+global.pairingNumber = "263719718777"
 
 
 
 
 //DO NOT EDIT OR MODD
-global.botNumber = pairingNumber2349130592590
+global.botNumber = pairingNumber263719718777
 global.domain = "https://.nobodysey.me"
 global.apikey = "ptla_DfGlmoY7jCzmkNUgyK925FPVE08Kr4mxwLMep"
 global.capikey = "ptlc_GTm42E3qIwbLW3K9w3htljUvhGvnG71hoPTqE"
